@@ -1,3 +1,4 @@
+
 .hero-background {
     background-image: url("https://images.hdqwalls.com/download/2019-tesla-model-y-4k-or-3840x2160.jpg");
     background-position: center; /* Center the image */
@@ -12,7 +13,7 @@
     background-size: cover;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover;
+    background-size: contain;
     padding-top: 45vw;
 
 }
